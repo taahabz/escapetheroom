@@ -40,6 +40,8 @@ class Editor:
         # Camera update
         # Camera update
         # Camera update
+        # Camera update
+        # Camera update
 
     def update(self):
         # Camera update
