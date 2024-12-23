@@ -40,6 +40,9 @@ class Editor:
 
     def update(self):
         # Camera update
+        # Camera update
+        # Camera update
+
         self.mouse_cam.update(mouse_position_local(), False)
 
         # Handle keyboard input
