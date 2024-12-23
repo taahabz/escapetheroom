@@ -38,15 +38,11 @@ class Editor:
         self.settings = Settings()
         self.mouse_cam = MouseCam((0.25, 0.04), INITIAL_CAMERA_SCALE)
         # Camera update
-        # Camera update
-        # Camera update
-        # Camera update
-        # Camera update
+
 
     def update(self):
         # Camera update
-        # Camera update
-        # Camera update
+
 
         self.mouse_cam.update(mouse_position_local(), False)
 
