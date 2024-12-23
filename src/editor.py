@@ -12,7 +12,17 @@ class Settings:
         self.is_ai_enabled = True
         self.is_show_multiple = False
         self.slow_mode = False
+class MouseCam:
+    def __init__(self, initial_position, scale):
+        self.position = pygame.Vector2(initial_position)
+        self.scale = scale
 
+    def update(self, mouse_position, dragging):
+        # Placeholder for actual mouse camera logic
+        pass
+
+def mouse_position_local():
+    return pygame.mouse.get_pos()
 class MouseCam:
     def __init__(self, initial_position, scale):
         self.position = pygame.Vector2(initial_position)
