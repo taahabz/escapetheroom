@@ -28,8 +28,6 @@ class MouseCam:
         self.position = pygame.Vector2(initial_position)
         self.scale = scale
 
-    def update(self, mouse_position, dragging):
-        # Placeholder for actual mouse camera logic
         pass
 
 def mouse_position_local():
