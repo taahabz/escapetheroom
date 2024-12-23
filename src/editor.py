@@ -38,7 +38,7 @@ class Editor:
         self.settings = Settings()
         self.mouse_cam = MouseCam((0.25, 0.04), INITIAL_CAMERA_SCALE)
         # Camera update
-
+        8*8
 
     def update(self):
         # Camera update
