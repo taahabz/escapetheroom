@@ -37,6 +37,9 @@ class Editor:
     def __init__(self):
         self.settings = Settings()
         self.mouse_cam = MouseCam((0.25, 0.04), INITIAL_CAMERA_SCALE)
+        # Camera update
+        # Camera update
+        # Camera update
 
     def update(self):
         # Camera update
