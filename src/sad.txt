@@ -11,7 +11,12 @@ import time
 import time
 import time
 import time
-from resources import init_resources
+import time
+import time
+import time
+import time
+import time
+    from resources import init_resources
 from editor import Editor
 from simulation import Simulation, SimulationStats
 from pygame.locals import *
