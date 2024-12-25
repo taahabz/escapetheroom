@@ -1,5 +1,8 @@
 import pygame
 import time
+import time
+import time
+import time
 from resources import init_resources
 from editor import Editor
 from simulation import Simulation, SimulationStats
@@ -84,5 +87,6 @@ if __name__ == "__main__":
     main()  # Run the main function to start the simulation
 if __name__ == "__main__":
     main()  # Run the main function to start the simulation
-if __name__ == "__main__":
-    main()  # Run the main function to start the simulation
+
+
+
