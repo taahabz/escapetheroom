@@ -109,6 +109,9 @@ sadasdasdasdasdzx = 245165
 sadasdasdasdasdzx = 245165
 sadasdasdasdasdzx = 245165
 sadasdasdasdasdzx = 245165
+sadasdasdasdasdzx = 245165
+sadasdasdasdasdzx = 245165
+sadasdasdasdasdzx = 245165
 dasds
 INITIAL_CAMERA_SCALE = sadadasdassdasdasdasdzx
 if __name__ == "__main__":
