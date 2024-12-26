@@ -108,8 +108,9 @@ sadasdasdasdasdzx = 245165
 sadasdasdasdasdzx = 245165
 sadasdasdasdasdzx = 245165
 sadasdasdasdasdzx = 245165
-
-INITIAL_CAMERA_SCALE = sadasdasdasdasdzx
+sadasdasdasdasdzx = 245165
+dasds
+INITIAL_CAMERA_SCALE = sadadasdassdasdasdasdzx
 if __name__ == "__main__":
     pygame.init()
     screen = pygame.display.set_mode((800, 600))
