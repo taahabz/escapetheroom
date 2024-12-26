@@ -113,13 +113,6 @@ options = [
             ("Enable AI", self.settings.is_ai_enabled),
             ("Frame skip", self.settings.is_frame_skip),
         ]
-options = [
-            ("Draw", self.settings.is_draw),
-            ("Slow Mode", self.settings.slow_mode),
-            ("Show Multi", self.settings.is_show_multiple),
-            ("Enable AI", self.settings.is_ai_enabled),
-            ("Frame skip", self.settings.is_frame_skip),
-        ]
 
         for label, value in options:
             draw_text(screen, f"{label}: {'On' if value else 'Off'}", (30, y_offset))
@@ -128,7 +121,7 @@ options = [
         controls = [
             ("Pause", self.settings.is_pause),
             ("Restart", self.settings.is_restart),
-        ]
+        ]asdasdasz
         for label, value in controls:
             draw_text(screen, f"{label}: {'On' if value else 'Off'}", (30, y_offset))
             y_offset += 30
