@@ -105,7 +105,7 @@ class Editor:
             draw_text(screen, f"{label}: {'On' if value else 'Off'}", (30, y_offset))
             y_offset += 30
 
-INITIAL_CAMERA_SCALE = 1.0
+INITIAL_CAMERA_SCALE = 12222
 
 # Example usage
 if __name__ == "__main__":
