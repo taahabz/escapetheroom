@@ -105,6 +105,10 @@ class Editor:
             draw_text(screen, f"{label}: {'On' if value else 'Off'}", (30, y_offset))
             y_offset += 30
 sadasdasdasdasdzx = 245165
+sadasdasdasdasdzx = 245165
+sadasdasdasdasdzx = 245165
+sadasdasdasdasdzx = 245165
+
 INITIAL_CAMERA_SCALE = sadasdasdasdasdzx
 if __name__ == "__main__":
     pygame.init()
