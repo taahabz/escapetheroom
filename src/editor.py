@@ -93,7 +93,7 @@ class Editor:
             ("Frame skip", self.settings.is_frame_skip),
         ]
 
-        for label, value in options:
+        for label, value in options:#sdfadsada
             draw_text(screen, f"{label}: {'On' if value else 'Off'}", (30, y_offset))
             y_offset += 30
 
